@@ -1,0 +1,91 @@
+Hyatt Place Bethlehem;45 W North St;Bethlehem;PA;18018;4.5
+Historic Hotel Bethlehem;437 Main St;Bethlehem;PA;18018;4.5
+Sands Casino Resort Bethlehem;77 Sands Blvd;Bethlehem;PA;18015;4.1
+Holiday Inn Express & Suites Bethlehem;2201 Cherry Ln;Bethlehem;PA;18015;4.2
+Red Roof Inn Allentown Airport;1846 Catasauqua Rd;Allentown;PA;18109;2
+Rodeway Inn;2115 Downyflake Ln;Allentown;PA;18103;2
+Renaissance Allentown Hotel;12 N 7th St;Allentown;PA;18101;3
+Quality Inn;1715 Plaza Ln;Allentown;PA;18104;2
+Hotel Edison;228 W 47th St;New York;NY;10036;3
+Novotel New York Times Square;226 W 52nd St;New York;NY;10019;4
+The Manhattan at Times Square Hotel;790 7th Ave;New York;NY;10019;3
+Hilton Times Square;234 W 42nd St;New York;NY;10036;4
+The Standard, Downtown LA;550 S Flower St;Los Angeles;CA;90071;4.2
+Hilton Los Angeles Airport;5711 W Century Blvd;Los Angeles;CA;90045;4.0
+Freehand Los Angeles;416 W 8th St;Los Angeles;CA;90014;4
+The Westin Mount Laurel;555 Fellowship Rd;Mt Laurel;NJ;08054;4.2
+Clarion Hotel & Conference Center;815 Rte 37 W;Toms River;NJ;08755;4.1
+Flamingo Las Vegas;3555 S Las Vegas Blvd;Las Vegas;NV;89109;3
+Las Vegas Marriott;325 Convention Center Dr;Las Vegas;NV;89109;3
+Park MGM Las Vegas;3770 S Las Vegas Blvd;Las Vegas;NV;89109;4
+The D Las Vegas;301 Fremont St;Las Vegas;NV;89101;3
+Best Western Plus Pioneer Square Hotel;77 Yesler Way;Seattle;WA;98104;3
+Kimpton Alexis Hotel;1007 1st Ave;Seattle;WA;98104;4
+InterContinental Boston;510 Atlantic Ave;Boston;MA;02210;5
+DoubleTree by Hilton Hotel Boston - Downtown;821 Washington St;Boston;MA;02111;3
+Marriott Marquis Washington, DC;901 Massachusetts Ave NW;Washington;DC;20001;4
+Hamilton Hotel - Washington DC.;1001 14th St NW;Washington;DC;20005;4
+Hilton Baltimore;401 W Pratt St;Baltimore;MD;21201;4
+Renaissance Baltimore Harborplace Hotel;202 E Pratt St;Baltimore;MD;21202;4
+Hotel RL Baltimore Inner Harbor;207 E Redwood St;Baltimore;MD;21202;3
+Conrad Miami;1395 Brickell Ave;Miami;FL;33130;4
+JW Marriott Miami;1109 Brickell Ave;Miami;FL;33131;5
+YVE Hotel Miami;146 Biscayne Blvd;Miami;FL;33132;3
+Hilton Miami Downtown;1601 Biscayne Blvd;Miami;FL;33132;4
+Aloft Miami - Brickell;1001 SW 2nd Ave;Miami;FL;33130;3
+Aloft Orlando Downtown;500 S Orange Ave;Orlando;FL;32801;3
+The Point Orlando Resort;7389 Universal Blvd;Orlando;FL;32819;4
+Renaissance Orlando Airport Hotel;5445 Forbes Pl;Orlando;FL;32812;4
+Sheraton Suites Orlando Airport;7550 Augusta National Dr;Orlando;FL;32822;5
+Best Western Orlando Gateway Hotel;7299 Universal Blvd;Orlando;FL;32819;3
+InterContinental San Francisco;888 Howard St;San Francisco;CA;94103;4
+Fairmont San Francisco;950 Mason St;San Francisco;CA;94108;4
+Hilton San Francisco Union Square;333 O'Farrell St;San Francisco;CA;94102;4
+Sonesta Silicon Valley;1820 Barber Ln;Milpitas;CA;95035;3
+Comfort Inn Sunnyvale - Silicon Valley;940 W Weddell Dr;Sunnyvale;CA;94089;2
+Best Western Silicon Valley Inn;600 N Mathilda Ave;Sunnyvale;CA;94085;3
+DoubleTree by Hilton Hotel Newark - Fremont;39900 Balentine Dr;Newark;CA;94560;3
+Hotel Indigo El Paso Downtown;325 N Kansas St;El Paso;TX;79901;3
+DoubleTree by Hilton Hotel El Paso Downtown;600 N El Paso St;El Paso;TX;79901;3
+Holiday Inn Express El Paso-Central;409 E Missouri Ave;El Paso;TX;79901;2
+Clarion Resort Fontainebleau Hotel - Oceanfront;10100 Coastal Hwy;Ocean City;MD;21842;3
+Americana Hotel;913 N Atlantic Ave;Ocean City;MD;21842;3
+Princess Bayside Beach Hotel;3126, 4801 Coastal Hwy;Ocean City;MD;21842;2
+Holiday Inn Express & Suites Ocean City;12601 Coastal Hwy;Ocean City;MD;21842;2
+Safari Motel;1219 N Atlantic Ave;Ocean City;MD;21842;2
+Castle in the Sand Hotel;3701 Atlantic Ave;Ocean City;MD;21842;3
+Grand Hotel & Spa;2100 Baltimore Ave;Ocean City;MD;21842;3
+Ocean Club Hotel;1035 Beach Ave;Cape May;NJ;08204;4
+Grand Hotel of Cape May;1045 Beach Ave;Cape May;NJ;08204;3
+Hotel Alcott;107-113 Grant St;Cape May;NJ;08204;3
+The Chalfonte Hotel;301 Howard St;Cape May;NJ;08204;2
+La Mer Beachfront Inn;1317 Beach Ave;Cape May;NJ;08204;4
+Carroll Villa Hotel;19 Jackson St;Cape May;NJ;08204;3
+Inn of Cape May;7 Ocean St;Cape May;NJ;08204;3
+Virgin Hotels Chicago;203 N Wabash Ave;Chicago;IL;60601;4
+Swissotel Chicago;323 E Upper Wacker Dr;Chicago;IL;60601;4
+Inn of Chicago;162 E Ohio St;Chicago;IL;60611;3
+Executive Hotel Pacific;400 Spring St;Seattle;WA;98104;3
+Best Western Executive Inn;200 Taylor Ave N;Seattle;WA;98109;3
+Fairmont Dallas;1717 N Akard St;Dallas;TX;75201;4
+Magnolia Dallas Downtown;1401 Commerce St;Dallas;TX;75201;4
+Aloft Dallas Downtown;1033 Young St;Dallas;TX;75202;3
+Omni Dallas Hotel;555 S Lamar St;Dallas;TX;752024;4
+Sheraton Dallas Hotel;400 N Olive St;Dallas;TX;75201;4
+Crowne Plaza Dallas Downtown;1015 Elm St;Dallas;TX;75202;4
+New Orleans Marriott;555 Canal St;New Orleans;LA;70130;4
+InterContinental New Orleans;444 St Charles Ave;New Orleans;LA;70130;4
+Sheraton New Orleans Hotel;500 Canal St;New Orleans;LA;70130;4
+Aloft New Orleans Downtown;225 Baronne St;New Orleans;LA;70112;3
+Le Meridien New Orleans;333 Poydras St;New Orleans;LA;70130;4
+Hilton Garden Inn Jackson Downtown;235 W Capitol St;Jackson;MS;39201;3
+Holiday Inn Express & Suites Jackson - Flowood;112 Ridge Way;Flowood;MS;39232;4
+Drury Inn & Suites Jackson Ridgeland;610 E County Line Rd;Ridgeland;MS;39157;3
+Staybridge Suites Jackson;801 Ridgewood Rd;Ridgeland;MS;39157;4
+Courtyard by Marriott Jackson Airport/Pearl;415 Riverwind Dr;Pearl;MS;39208;3
+Appalachian Hotel;200 NJ-94;Vernon Township;NJ;07462;3
+Aloft Tallahassee Downtown;200 N Monroe St;Tallahassee;FL;32301;3
+DoubleTree by Hilton Hotel Tallahassee;101 S Adams St;Tallahassee;FL;32301;3
+Best Western Plus Tallahassee North Hotel;2727 Graves Rd;Tallahassee;FL;32303;2
+SpringHill Suites by Marriott Tallahassee Central;1300 Executive Center Dr;Tallahassee;FL;32301;3
+Holiday Inn Express Tallahassee - I-10 E;1653 Raymond Diehl Rd;Tallahassee;FL;32308;3

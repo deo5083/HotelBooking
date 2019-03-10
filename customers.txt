@@ -1,0 +1,10 @@
+family~David;Ortiz;0;2
+family~Mike;Stone;2;2
+family~Eric;Stevens;3;1
+family~Tim;Yeakel;2;2
+family~Mark;Fern;4;2
+business~Joe;Howard;Book Inc;2
+business~Elon;Musk;Tesla;1
+business~Michael;Steven;Netflix;2
+business~Tory;Ramiro;Giant;2
+business~Tom;Brady;Patriots;1

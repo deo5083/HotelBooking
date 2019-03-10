@@ -1,0 +1,16 @@
+Pool;10.0;
+Wifi;15.0;
+Breakfast;20.0
+Computer Desk;10.0;
+Safe;10.0;
+Minibar;15.0;
+Valet;40.0;
+Housekeeping;20.0;
+Cable TV;5.0;
+Shuttle;5.0;
+Gym;5.0;
+Concierge;20.0;
+Spa;40.0;
+Hot tub;10.0;
+Chauffer;40.0;
+Luxury Bedding;15.0;
